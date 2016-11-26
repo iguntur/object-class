@@ -1,0 +1,38 @@
+{
+  "name": "object-class",
+  "version": "0.0.0",
+  "description": "Expose `prototype` and `static` method of class",
+  "license": "MIT",
+  "repository": "iguntur/object-class",
+  "author": {
+    "name": "Guntur Poetra",
+    "email": "poetra.guntur@gmail.com",
+    "url": "http://guntur.starmediateknik.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "check",
+    "class",
+    "function",
+    "get",
+    "prototype",
+    "prototypeOf",
+    "static",
+    "staticOf"
+  ],
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
