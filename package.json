@@ -1,6 +1,6 @@
 {
   "name": "object-class",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Expose `prototype` and `static` method of class",
   "license": "MIT",
   "repository": "iguntur/object-class",
